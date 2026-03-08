@@ -8,6 +8,11 @@ ____________________________________________
 
 # Projektstruktur
 
+archives  archivierte Dateien und alte Ressourcen
+docs      Projektdokumentation
+secrets   Beispiel für sensible Konfigurationsdaten
+website   HTML Dateien der Beispiel Webseite
+
 ## docs
 Enthält alle Markdown Dokumentationen des Projects.
 
