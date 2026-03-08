@@ -4,6 +4,9 @@ Dieses Repository enthält den Praxisauftrag für das Modul IN250.
 
 Ziel des Projekts ist es, eine saubere Entwicklungsumgebung aufzubauen, ein bestehendes Repository zu analysieren und die Struktur gemäss Best Practices zu reorganisieren.
 
+## Projekt Website
+
+https://lg9595.github.io/in250-black-market-gmbh/
 ____________________________________________
 
 ## Projektstruktur
