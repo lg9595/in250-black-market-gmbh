@@ -4,6 +4,12 @@ Dieses Repository enthält den Praxisauftrag für das Modul IN250.
 
 Ziel des Projekts ist es, eine saubere Entwicklungsumgebung aufzubauen, ein bestehendes Repository zu analysieren und die Struktur gemäss Best Practices zu reorganisieren.
 
+## Dokumentation
+
+- [Verzeichnisstruktur](docs/01_verzeichnisstruktur.md)
+- [Branch Strategie](docs/02_branch_strategie.md)
+
+---
 ____________________________________________
 
 ## Projektstruktur
