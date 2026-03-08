@@ -1,0 +1,14 @@
+# Environment files
+.env
+
+# Secrets
+secrets/
+
+# Credentials
+KREDITKARTEN.txt
+secret.json
+secret.yml
+
+# OS files
+.DS_Store
+Thumbs.db
