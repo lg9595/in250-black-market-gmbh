@@ -6,12 +6,14 @@ Ziel des Projekts ist es, eine saubere Entwicklungsumgebung aufzubauen, ein best
 
 ____________________________________________
 
-# Projektstruktur
+## Projektstruktur
 
-archives  archivierte Dateien und alte Ressourcen
-docs      Projektdokumentation
-secrets   Beispiel für sensible Konfigurationsdaten
-website   HTML Dateien der Beispiel Webseite
+| Ordner | Beschreibung |
+|------|-------------|
+| archives | archivierte Dateien und alte Ressourcen |
+| docs | Projektdokumentation |
+| secrets | Beispiel für sensible Konfigurationsdaten |
+| website | HTML Dateien der Beispiel Webseite |
 
 ## docs
 Enthält alle Markdown Dokumentationen des Projects.
