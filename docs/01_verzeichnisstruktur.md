@@ -14,3 +14,4 @@ Enthält sensinble Dateien wie Konfigurationen oder Zugangsdaten. Sollte nicht �
 
 ## webseite
 Enthält die Webseite Dateien des Projects.
+Diese Struktur folgt gängigen Best Practices für Git Repositories.
